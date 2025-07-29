@@ -5,13 +5,13 @@
   
   <div>
 <h1 align="center">Hi there, Sheila here, your most reliable Developer!😃</h1>
-<h3 align="center">A passionate full- stack software engineeer| Web-developer| Tech-Enthusiast from Kenya🤗</h3>
+<h3 align="center">A passionate full- stack software engineeer| Web-developer| Tech-Enthusiast from Kenya🤗.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwangishee&label=Profile%20views&color=0e75b6&style=flat" alt="mwangishee" /> </p>
 <p align="right">
 <img align="right" height="150" style="margin-top: 100px;" src="https://i.imgflip.com/65efzo.gif" />
 
-
+-👨‍💻 ABOUT ME:
 - 🔭 I’m currently working on [E-commerce website with Django](https://github.com/sheila/ecommerce-django)
 
 - 🌱 I’m currently learning **AI for software engineering**
